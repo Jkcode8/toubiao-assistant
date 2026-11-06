@@ -28,7 +28,7 @@ doc2md ─→ tender_scan ─→ outline_check ─→ word_budget ─→ 写作 
 仓库根目录**就是**技能根目录，clone 下来直接拷进宿主的技能目录即可：
 
 ```bash
-git clone https://github.com/<you>/toubiao-assistant.git
+git clone https://github.com/Jkcode8/toubiao-assistant.git
 cp -r toubiao-assistant ~/.claude/skills/     # Claude Code
 cp -r toubiao-assistant ~/.codex/skills/      # Codex CLI
 cp -r toubiao-assistant ~/.workbuddy/skills/  # WorkBuddy

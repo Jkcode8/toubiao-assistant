@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.tmp/
+tmp/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*.docx
+~$*.doc
+*.log

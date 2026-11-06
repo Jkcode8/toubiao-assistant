@@ -1,0 +1,217 @@
+{
+  "documents": [
+    {
+      "file": "投标技术方案.docx",
+      "path": "D:\\AI\\workbuddy\\bid\\.workbuddy\\tmp\\demo2\\投标技术方案.docx",
+      "sha256": "f8a9330fe8b9da2e78647767f3eefe01ebd8bcdec93e747ab63d7f217596ebf6",
+      "chars": 276,
+      "meta": {
+        "author": "",
+        "last_modified_by": "",
+        "company": "",
+        "title": "某水库除险加固技术服务投标技术方案",
+        "created": "2026-10-21T11:17:06+00:00",
+        "modified": "2026-10-21T11:17:06+00:00",
+        "revision": 1
+      }
+    },
+    {
+      "file": "sample3.docx",
+      "path": "D:\\AI\\workbuddy\\bid\\.workbuddy\\tmp\\sample3.docx",
+      "sha256": "e7a68029db952491c5e8938382f8ad74e5232af77cf785ac5333eb9f6e754def",
+      "chars": 257,
+      "meta": {
+        "author": "",
+        "last_modified_by": "",
+        "company": "",
+        "title": "sample3",
+        "created": "2013-12-23T23:15:00+00:00",
+        "modified": "2013-12-23T23:15:00+00:00",
+        "revision": 1
+      }
+    }
+  ],
+  "identical_files": [],
+  "pairs": [
+    {
+      "a": "投标技术方案.docx",
+      "b": "sample3.docx",
+      "score": 0.55,
+      "risk": "中",
+      "paragraph_overlap": 0.0,
+      "title_overlap": 1.0,
+      "order_similarity": 1.0
+    }
+  ],
+  "duplicate_paragraphs": [],
+  "duplicate_images": [],
+  "materials": [
+    {
+      "material": "营业执照",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "资质证书",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "安全生产许可证",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "法定代表人",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "授权委托书",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "投标函",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "投标保证金",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "财务报告",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "审计报告",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "业绩",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "合同",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "人员证书",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "社保证明",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "信用中国",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "无重大违法记录",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "承诺函",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "偏离表",
+      "files": [],
+      "found": false
+    },
+    {
+      "material": "技术方案",
+      "files": [
+        "投标技术方案.docx"
+      ],
+      "found": true
+    },
+    {
+      "material": "服务方案",
+      "files": [
+        "投标技术方案.docx",
+        "sample3.docx"
+      ],
+      "found": true
+    },
+    {
+      "material": "报价表",
+      "files": [],
+      "found": false
+    }
+  ],
+  "redlines": [
+    {
+      "no": 1,
+      "id": "T1",
+      "requirement": "投标文件未按要求签字盖章的，其投标无效。",
+      "source": "redlines",
+      "verdict": "未见响应线索",
+      "file": "投标技术方案.docx",
+      "paragraph": "· 招标文件第三章采购需求",
+      "score": 0.08
+    },
+    {
+      "no": 2,
+      "id": "T2",
+      "requirement": "投标报价超过最高限价的，否决其投标。",
+      "source": "redlines",
+      "verdict": "未见响应线索",
+      "file": "投标技术方案.docx",
+      "paragraph": "某水库除险加固技术服务投标技术方案",
+      "score": 0.036
+    },
+    {
+      "no": 3,
+      "id": "T3",
+      "requirement": "未提供投标保证金的，作无效投标处理。",
+      "source": "redlines",
+      "verdict": "未见响应线索",
+      "file": "投标技术方案.docx",
+      "paragraph": "某水库除险加固技术服务投标技术方案",
+      "score": 0.036
+    },
+    {
+      "no": 4,
+      "id": "T4",
+      "requirement": "投标人须具备水利行业设计乙级及以上资质，并提供资质证书复印件。",
+      "source": "qualifications",
+      "verdict": "未见响应线索",
+      "file": "投标技术方案.docx",
+      "paragraph": "某水库除险加固技术服务投标技术方案",
+      "score": 0.024
+    },
+    {
+      "no": 5,
+      "id": "T5",
+      "requirement": "投标人须提供近三年经审计的财务报告。",
+      "source": "qualifications",
+      "verdict": "未见响应线索",
+      "file": "sample3.docx",
+      "paragraph": "3. 报告编制与评审",
+      "score": 0.045
+    },
+    {
+      "no": 6,
+      "id": "T6",
+      "requirement": "项目负责人须具备水利水电工程专业高级职称。",
+      "source": "qualifications",
+      "verdict": "未见响应线索",
+      "file": "投标技术方案.docx",
+      "paragraph": "· 《水利水电工程等级划分及洪水标准》SL 252",
+      "score": 0.139
+    }
+  ]
+}

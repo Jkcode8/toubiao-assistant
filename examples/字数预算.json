@@ -1,0 +1,61 @@
+{
+  "min_words": 20000,
+  "max_words": 30000,
+  "base": 25000,
+  "section_words": 3000,
+  "leaf_suggestion": 8,
+  "budget": 25000,
+  "sum": 25000,
+  "sections": [
+    {
+      "id": "leaf-1",
+      "title": "项目理解与需求分析",
+      "weight": 1.0,
+      "depth": 2,
+      "target_words": 3572
+    },
+    {
+      "id": "leaf-2",
+      "title": "总体服务思路",
+      "weight": 1.0,
+      "depth": 2,
+      "target_words": 3572
+    },
+    {
+      "id": "leaf-3",
+      "title": "服务流程设计",
+      "weight": 1.0,
+      "depth": 2,
+      "target_words": 3572
+    },
+    {
+      "id": "leaf-4",
+      "title": "进度计划安排",
+      "weight": 1.0,
+      "depth": 2,
+      "target_words": 3571
+    },
+    {
+      "id": "leaf-5",
+      "title": "进度保障措施",
+      "weight": 1.0,
+      "depth": 2,
+      "target_words": 3571
+    },
+    {
+      "id": "leaf-6",
+      "title": "1.1 应急赶工预案",
+      "weight": 1.0,
+      "depth": 2,
+      "target_words": 3571
+    },
+    {
+      "id": "leaf-7",
+      "title": "投标报价",
+      "weight": 1.0,
+      "depth": 1,
+      "target_words": 3571
+    }
+  ],
+  "correction": null
+}

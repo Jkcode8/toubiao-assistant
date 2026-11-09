@@ -1,10 +1,18 @@
 ---
 name: toubiao-assistant
-description: 投标助手——全流程投标文件（技术标）编制助手，对标成熟桌面端投标工具的工程化链路。当用户提供招标文件（PDF/Word/扫描件/压缩包）或要求"投标""写标书""做技术方案/技术标""响应采购需求""按评分项写方案""检查废标项""标书查重""生成投标 Word"，或需要把已有方案扩写成投标文件、核对投标文件是否踩红线时使用。能力覆盖：招标文件结构化解析（18 项，含无效投标/废标项、技术评分项与技术评分要求分离）、评分项驱动的目录生成与校验、全局事实口径统一、分节正文写作与字数预算、废标项自查与标书查重、整本 Word 排版导出。硬约束：忠于招标文件原文不编造、目录由评分项驱动、结构性变更先确认、人员只写岗位不写姓名、技术标不混入商务/资信/报价。
+displayName: JK投标助手
+display_name: JK投标助手
+slug: jk-toubiao-assistant
+version: 1.0.0
+description: JK投标助手——全流程投标文件（技术标）编制助手，对标成熟桌面端投标工具的工程化链路。当用户提供招标文件（PDF/Word/扫描件/压缩包）或要求"投标""写标书""做技术方案/技术标""响应采购需求""按评分项写方案""检查废标项""标书查重""生成投标 Word"，或需要把已有方案扩写成投标文件、核对投标文件是否踩红线时使用。能力覆盖：招标文件结构化解析（18 项，含无效投标/废标项、技术评分项与技术评分要求分离）、评分项驱动的目录生成与校验、全局事实口径统一、分节正文写作与字数预算、废标项自查与标书查重、整本 Word 排版导出。硬约束：忠于招标文件原文不编造、目录由评分项驱动、结构性变更先确认、人员只写岗位不写姓名、技术标不混入商务/资信/报价。
+description_en: JK Bidding Assistant is an end-to-end technical proposal drafting workflow for Chinese tenders. It parses a tender document into 18 structured items, builds a scoring-driven outline, drafts section by section under a word budget, runs red-line and similarity audits, and exports a formatted Word file. Every deterministic step is script-backed.
+summary: 把招标文件变成可提交的技术标：18 项结构化解析、评分项驱动目录、分节写作、废标自查与查重、Word 排版导出，每一步都可用脚本核验。
+tags: [投标, 标书, 技术标, 招标文件解析, 废标检查, 标书查重, Word导出]
 license: MIT
+homepage: https://github.com/Jkcode8/toubiao-assistant
 ---
 
-# 投标助手
+# JK投标助手
 
 把"读招标文件 → 定目录 → 写正文 → 自查 → 出 Word"这条链跑完，并且每一步都可核验。
 本技能按成熟桌面端投标工具的投标主链路提炼：解析项、目录规则、

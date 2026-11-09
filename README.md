@@ -1,6 +1,6 @@
 <div align="center">
 
-# 投标助手 · toubiao-assistant
+# JK投标助手 · toubiao-assistant
 
 **把「读招标文件 → 定目录 → 写正文 → 查废标 → 出 Word」变成一条可核验的流水线**
 

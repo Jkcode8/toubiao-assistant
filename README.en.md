@@ -1,6 +1,6 @@
 <div align="center">
 
-# toubiao-assistant · 投标助手
+# toubiao-assistant · JK投标助手
 
 **Turn a 300-page tender document into a submission-ready technical proposal — with every step auditable**
 

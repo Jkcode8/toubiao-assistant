@@ -1,5 +1,5 @@
 ---
-name: toubiao-assistant
+name: jk-toubiao-assistant
 displayName: JK投标助手
 display_name: JK投标助手
 slug: jk-toubiao-assistant
